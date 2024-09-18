@@ -20,7 +20,7 @@
         </ul>
     </nav>
     <main class="bg-gray-300 flex justify-around">
-        <div class="main py-40 pl-9">
+        <div class="main py-40 px-9">
             <div class="text-6xl ">
                 THE BEST PHONES IN THE MUMBAI
             </div>
